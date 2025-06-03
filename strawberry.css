@@ -6,6 +6,13 @@ body{
     margin: 0;
 }
 
+.carrot {
+    display:grid;
+    grid-template-columns: 1fr 1fr; 
+
+}
+
+
 .header{
     font-family: 'Courier New', Courier, monospace;
     color:#335596; 
@@ -33,7 +40,7 @@ a:hover{
 }
 
 div.gallery {
-    margin: 5px;
+    margin: 10px;
     border: 1px solid #ccc;
     float: left;
     width: 350px;

@@ -27,7 +27,7 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #fdeba4;
+    background-color: #fff2c0;
     border-style: solid;
     border-color:#ffc830;
 }
@@ -51,7 +51,7 @@ p {
     font-size: x-large;
 }
 .content1{
-    background-color: #ffeb9c;
+    background-color: #fff1bb;
     padding: 50px;
     text-align: center;
     float: left;
@@ -62,7 +62,7 @@ p {
 
 
 .content2{
-    background-color: #ffeb9c;
+    background-color: #fff1bb;
     padding: 50px;
     text-align: center;
     float: right;
